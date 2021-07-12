@@ -95,4 +95,6 @@ console.log(man.virgin && check);
 // !check - зміна тру або фолс на протилежне
 // === - перевірка не тільки за значенням а й за типом данних
 console.log("fafafafaf");
-let nameeee
+let nameeee;
+let agagaggaagag;
+const asd = 11;
