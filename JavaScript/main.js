@@ -98,3 +98,4 @@ console.log("fafafafaf");
 let nameeee;
 let agagaggaagag;
 const asd = 11;
+console.log(asd);
